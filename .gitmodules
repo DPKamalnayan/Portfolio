@@ -1,0 +1,4 @@
+[submodule "DPKamalnayanPortfolio/public"]
+	path = DPKamalnayanPortfolio/public
+	url = git@github.com:DPKamalnayan/DPKamalnayanPortfolio.github.io.git
+	branch = main
